@@ -1,8 +1,8 @@
 # Birch CSS
 
 A personal fork of [Pico CSS](https://github.com/picocss/pico),
-based on version 2.1.1, with additional components and changes
-for my own projects.
+based on version 2.1.1. Additional components and changes
+will be added as needed for my own projects.
 
 You're welcome to use it, but development follows my needs.
 There is no commitment to support, feature requests, or a
